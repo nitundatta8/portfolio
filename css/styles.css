@@ -4,3 +4,10 @@ img{
   width: 150px;
   margin-bottom: 20px;
 }
+.demo{
+  color: blue;
+  font-style: italic;
+}
+.demo:hover {
+  background-color: rgb(154, 178, 197);
+}
