@@ -1,9 +1,24 @@
 img{
-  float: right;
+  
   height: 200px;
   width: 150px;
-  margin-bottom: 20px;
+  
 }
+.banner{
+  float: right;
+}
+.intro{
+  float: left;
+  text-align: center;
+  
+  padding: 10px;
+  margin-top: 40px;
+  
+}
+/* .h3{
+  float: left;
+  font-size: 50px;
+} */
 .demo{
   color: blue;
   font-style: italic;
@@ -11,7 +26,7 @@ img{
 .demo:hover {
   background-color: rgb(154, 178, 197);
 }
-.panel-color{
-  border: rgb(83, 218, 166) solid 2px;
-  box-shadow: darkgray 2px;
+h6{
+  font-family: sans-serif;
+  font-size: 15px;
 }
