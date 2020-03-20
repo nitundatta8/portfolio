@@ -11,3 +11,7 @@ img{
 .demo:hover {
   background-color: rgb(154, 178, 197);
 }
+.panel-color{
+  border: rgb(83, 218, 166) solid 2px;
+  box-shadow: darkgray 2px;
+}
