@@ -7,13 +7,13 @@
 ## Setup
   - Clone this repository.
   - View in browser
-  - [GitHup Pages](https://nitundatta8.github.io/portfolio/)
+  - [GitHub Pages](https://nitundatta8.github.io/portfolio/)
 
 ### Technology Used
   - Html
   - Css
   - Bootstrap
-  - Mardown
+  - Markdown
 
 ### Legal 
 **Copyright (c) 2020**
